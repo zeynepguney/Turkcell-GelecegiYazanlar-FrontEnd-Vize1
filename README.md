@@ -1,6 +1,8 @@
 # HP Wands Websitesi
 
 HP Wands'a hoşgeldiniz! 
+
+Projeyi canlıda görmek isterseniz : https://67c768dbbd9865b1013e57da--shiny-puffpuff-21a42f.netlify.app/ 
 Büyülü bir deneyim sunan bu e-ticaret platformunda, favori karakterlerinizden ilham alıp karekterinize uygun asaları keşfedip satın alabilirsiniz.
 
 ## Özellikler
