@@ -1,0 +1,4 @@
+[build]
+  base = "Odev1"
+  command = "npm install && npm run build"
+  publish = "Odev1/build"
